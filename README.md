@@ -9,7 +9,8 @@
 - 🐍 Python lover
 - 💻 Web development enthusiast
 <h3> 👥 Contact </h3>
-_[LikedIn](https://www.linkedin.com/in/valker-vinicius/), 
-  [Instagram](https://www.instagram.com/valker_vinicius/), 
-  [Telegram](https://t.me/Devinicius)_
+
+* _[LikedIn](https://www.linkedin.com/in/valker-vinicius/)_ 
+* _[Instagram](https://www.instagram.com/valker_vinicius/)_ 
+* _[Telegram](https://t.me/Devinicius)_
 - Contact e-mail: valkerm2v@gmail.com
