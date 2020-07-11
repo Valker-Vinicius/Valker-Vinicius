@@ -8,7 +8,7 @@
 - Brazilian
 - 🐍 Python lover
 - 💻 Web development enthusiast
-- 👥 Contacts:
+<h3> 👥 Contact </h3>
 _[LikedIn](https://www.linkedin.com/in/valker-vinicius/), 
   [Instagram](https://www.instagram.com/valker_vinicius/), 
   [Telegram](https://t.me/Devinicius)_
