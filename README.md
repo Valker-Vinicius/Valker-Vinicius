@@ -5,7 +5,7 @@
 -->
 
 - 🧑 14 yold 
-- Brazilian
+- 🇧🇷 Brazilian
 - 🐍 Python lover
 - 💻 Web development enthusiast
 <h3> 👥 Contact </h3>
@@ -13,4 +13,4 @@
 * _[LikedIn](https://www.linkedin.com/in/valker-vinicius/)_ 
 * _[Instagram](https://www.instagram.com/valker_vinicius/)_ 
 * _[Telegram](https://t.me/Devinicius)_
-- Contact e-mail: valkerm2v@gmail.com
+* Contact e-mail: valkerm2v@gmail.com
