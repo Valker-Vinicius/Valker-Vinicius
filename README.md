@@ -8,9 +8,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-valkerm2v%40gmail.com-gray?logo=gmail)](valkerm2v@gmail.com)
 
 ### Hi There <img src= "https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width= "25px"> </img>
-
-#### I'm just an another beginner programmer who don't know much
-
+#### I'm just another beginner programmer who doesn't know much, but is very focused on learning more and more
 - 🧑 14 yold 
 - 🇧🇷 Brazilian
 - 🐍 Python lover
