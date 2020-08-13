@@ -1,11 +1,21 @@
-<h2 align= "center">
+<h1 align= "center">
   Valker Vinicius
-</h2>
+</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230374b4?logo=linkedin)](https://www.linkedin.com/in/valker-vinicius)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-%23f89747?logo=instagram)](https://www.instagram.com/valker_vinicius)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-%23197eb2?logo=telegram)](https://t.me/Devinicius)
-[![Gmail Badge](https://img.shields.io/badge/-valkerm2v%40gmail.com-gray?logo=gmail)](valkerm2v@gmail.com)
+<p align= "center">
+  <a href="https://www.linkedin.com/in/valker-vinicius">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230374b4?logo=linkedin" />
+  </a>
+  <a href="https://www.instagram.com/valker_vinicius">
+    <img src="https://img.shields.io/badge/-Instagram-%23f89747?logo=instagram" />
+  </a>
+  <a href="https://t.me/Devinicius">
+    <img src="https://img.shields.io/badge/-Telegram-%23197eb2?logo=telegram" />
+  </a>
+  <a href="valkerm2v@gmail.com">
+    <img src="https://img.shields.io/badge/-valkerm2v%40gmail.com-gray?logo=gmail" />
+  </a>
+</p>
 
 ### Hi There <img src= "https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width= "25px"> </img>
 #### I'm just another beginner programmer who doesn't know much, but is very focused on learning more and more
