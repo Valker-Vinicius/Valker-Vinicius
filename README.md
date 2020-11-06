@@ -22,8 +22,13 @@
 ### About me:
 - 🧑 15 yold 
 - 🇧🇷 Brazilian
-- 🐍 Python lover
-- 💻 Web development enthusiast 
+- 💻 Web development enthusiast
+
+## Currently learning:
+- 💡 JavaScript with React
+- 🐍 Python with Django
+- ≺∕≻ Improving in HTML and CSS
+
 #### Curious facts:
 * 🍥 I very like animes and series
 * ✍ I'm writer, but my webnovel would isn't published yet
