@@ -32,4 +32,4 @@
 #### Curious facts:
 * 🍥 I very like animes and series
 * ✍ I'm writer, but my webnovel would isn't published yet
-* 💡 I have a idea which - in my mind - can change the world of technology!
+* 💡 I have an idea which - in my mind - can change the world of technology!
