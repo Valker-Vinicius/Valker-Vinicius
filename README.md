@@ -12,7 +12,7 @@
   <a href="https://t.me/Devinicius">
     <img src="https://img.shields.io/badge/-Telegram-%23197eb2?logo=telegram" />
   </a>
-  <a href="valkerm2v@gmail.com">
+  <a href="mailto:valkerm2v@gmail.com">
     <img src="https://img.shields.io/badge/-valkerm2v%40gmail.com-gray?logo=gmail" />
   </a>
 </p>
