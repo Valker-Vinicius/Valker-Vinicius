@@ -3,7 +3,7 @@
 </h1>
 
 <p align= "center">
-  <a href="https://www.linkedin.com/in/valker-vinicius">
+  <a href="https://www.linkedin.com/in/deviniciusss">
     <img src="https://img.shields.io/badge/-LinkedIn-%230374b4?logo=linkedin" />
   </a>
   <a href="https://www.instagram.com/valker_vinicius">
