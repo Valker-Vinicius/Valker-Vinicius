@@ -15,12 +15,15 @@
   <a href="mailto:valkerm2v@gmail.com">
     <img src="https://img.shields.io/badge/-valkerm2v%40gmail.com-gray?logo=gmail" />
   </a>
+  <a href="https://twitter.com/Deviniciusss">
+    <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FDeviniciusss" />
+  </a>
 </p>
 
 ### Hi There <img src= "https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width= "25px"> </img>
 #### I'm just another beginner programmer who doesn't know much, but is very focused on learning more and more
 ### About me:
-- 🧑 15 yold 
+- 🧑 16 yold 
 - 🇧🇷 Brazilian
 - 💻 Web development enthusiast
 
